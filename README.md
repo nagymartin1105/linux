@@ -1,0 +1,2 @@
+# linux
+ Linux bemutatása
